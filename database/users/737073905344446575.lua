@@ -1,6 +1,4 @@
-_G.PLAYLISTS = {
-    "Todas", "Cópias", "Bundas", "Peitos", "Emojis", "Memes", "Amigos(a", "Players", "Fofoo", "Aleatórias"
-}
+_G.PLAYLISTS = {"Todas", "Cópias", "Bundas", "Peitos", "Emojis", "Memes", "Amigos(a", "Players", "Fofoo", "Aleatórias"}
 
 _G.ARTS = {
     {
