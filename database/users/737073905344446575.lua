@@ -2,7 +2,7 @@
 -- ÁREA EDITÁVEL PELO BOT – PLAYLISTS E ARTES
 -- =====================================================
 _G.PLAYLISTS = {
-    "Todas", "Cópias", "Aleatórias", "NSFW", "Memes", "Players"
+    "Todas", "Cópias", "Bundas", "Peitos", "Emojis", "Memes", "Amigos(a", "Players", "Fofo", "Aleatórias"
 }
 
 _G.ARTS = {
